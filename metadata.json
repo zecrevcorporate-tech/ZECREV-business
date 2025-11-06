@@ -1,0 +1,7 @@
+{
+  "name": "Nearby Business Finder",
+  "description": "Instantly find and connect with local businesses in any category. This real-time lead generator uses your location to discover nearby services, from plumbers to restaurants, providing you with essential contact information and map links.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
